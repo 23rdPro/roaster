@@ -75,11 +75,3 @@ class ChangeForm(UserChangeForm):
 
 
 
-
-
-
-
-
-
-
-
